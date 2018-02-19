@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  currency_id: 1
+  date: 2018-01-18
+  open: 1.5
+  close: 1.5
+  high: 1.5
+  low: 1.5
+  volume: 1
+  market_cap: 1
+
+two:
+  currency_id: 1
+  date: 2018-01-18
+  open: 1.5
+  close: 1.5
+  high: 1.5
+  low: 1.5
+  volume: 1
+  market_cap: 1
